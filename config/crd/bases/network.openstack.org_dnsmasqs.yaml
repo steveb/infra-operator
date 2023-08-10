@@ -124,6 +124,8 @@ spec:
                       - dns-rr
                       - auth-zone
                       - synth-domain
+                      - filter-A
+                      - filter-AAAA
                       type: string
                     values:
                       items:
